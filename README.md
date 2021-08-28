@@ -8,12 +8,12 @@ for checking if the bot is running.
 
 ## Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/tgmusicbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TinderBrazil/tgmusicbot)
 
 ## Manually
 
 ```
-# Telegram API Key
+# Telegram API Key 
 # get from https://my.telegram.org/apps
 export API_ID="1234567"
 export API_HASH="0123456789abcdef0123456789abcdef"
